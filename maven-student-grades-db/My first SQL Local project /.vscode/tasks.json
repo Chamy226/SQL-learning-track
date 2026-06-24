@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "sqlproj: Build My first SQL Local project ",
+			"type": "process",
+			"command": "dotnet",
+			"args": [
+				"build",
+				"/Users/mac/Downloads/maven-student-grades-db/My first SQL Local project /My first SQL Local project .sqlproj"
+			],
+			"problemMatcher": "$sqlproj-problem-matcher",
+			"isBackground": true,
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "Builds the My first SQL Local project  SQL project"
+		}
+	]
+}
