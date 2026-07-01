@@ -21,6 +21,12 @@ This repository tracks my SQL and Excel learning projects.
   - `Stores.pdf`
 - Description: Excel CSV dataset for learning Power Query, Power Pivot, data modeling, and DAX.
 
+## Lesson 4 - Python for Data Analysis
+- Folder: `python-data-analysis-course`
+- Source: Luke Barousse Python Data Analytics course
+- Includes: Jupyter notebooks for Python basics, pandas, matplotlib, seaborn, and a mini project
+- Description: Beginner-friendly Python course focused on data analysis with downloadable notebooks and exercises.
+
 ## Notes
 - `.gitignore` includes `.DS_Store`.
 - Use this repo to keep the lesson files and notes organized for each lesson.
